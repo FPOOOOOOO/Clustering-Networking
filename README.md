@@ -34,5 +34,14 @@ UCFIA（Unequal Clustering Algorithm for WSN based on Fuzzy Logic and Improved AC
 ## 230410
 1、ABC选簇头，然后LEACH加入簇头，簇内TDMA，簇间CDMA
 2、Kmeans或者FCM分簇，然后选簇头
-3、基于能量均衡移动多层分簇算法，Energ_Balance Mutil_Layer clustering algorithm with mobile nodes.
-4、
+3、基于能量均衡移动多层分簇算法，Load_Balance Mutil_Driven clustering algorithm with mobile nodes.
+4、Mutil_Layer ——Mobility-Aware Hierarchical Clustering in Mobile Wireless Sensor Networks + 能量平衡的无线传感器网络数据采集动态分簇算法
+5、Energy_Balance —— 能量平衡的无线传感器网络数据采集动态分簇算法
+
+## 230411
+1、LEACH的matlab研究
+2、FCM和Fuzzing Grid待看
+
+## 230412
+1、LEACH的matlab能跑了
+2、
