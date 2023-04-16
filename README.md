@@ -43,5 +43,12 @@ UCFIA（Unequal Clustering Algorithm for WSN based on Fuzzy Logic and Improved AC
 2、FCM和Fuzzing Grid待看
 
 ## 230412
-1、LEACH的matlab能跑了
-2、
+1、LEACH的matlab能跑了\
+2、簇头选择——基于能量均衡高效的LEACH路由协议优化策略_黄利晓，或者根据我的K值来算
+
+## 230413
+1、算法总设计目标：低延时、减少冗余、能量总消耗少
+2、基本假设：能量供应充足，延时最低（如何仿真延时）
+
+## 230413
+1、算法总设计目标：低延时、减少冗余、能量总消耗少
