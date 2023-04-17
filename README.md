@@ -50,5 +50,12 @@ UCFIA（Unequal Clustering Algorithm for WSN based on Fuzzy Logic and Improved AC
 1、算法总设计目标：低延时、减少冗余、能量总消耗少
 2、基本假设：能量供应充足，延时最低（如何仿真延时）
 
-## 230413
-1、算法总设计目标：低延时、减少冗余、能量总消耗少
+## 230414
+1、延时，20ms变完结构
+2、用功能分簇
+3、遮挡就让他断开
+
+## 230417
+1、
+
+
