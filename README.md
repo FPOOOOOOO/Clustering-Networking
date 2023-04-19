@@ -52,10 +52,15 @@ UCFIA（Unequal Clustering Algorithm for WSN based on Fuzzy Logic and Improved AC
 
 ## 230414
 1、延时，20ms变完结构
-2、用功能分簇
+2、用功能分簇，然后选簇头
 3、遮挡就让他断开
 
 ## 230417
-1、
+1、重点放到延迟身上，要把这个过程厘清
+2、如果按照WiFi 802.11 DCF来的话就是CSMA/DA
+3、如果按照之前的文章来的话，就是TDMA
 
+## 230419
+1、RWP跑起来了，要结合一下，它是先把所有点的轮次模拟好，然后在渲染，应该根据时间，边走边渲染
+2、
 
