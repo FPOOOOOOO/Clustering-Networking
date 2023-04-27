@@ -64,4 +64,9 @@ UCFIA（Unequal Clustering Algorithm for WSN based on Fuzzy Logic and Improved AC
 1、RWP跑起来了，要结合一下，它是先把所有点的轮次模拟好，然后在渲染，应该根据时间，边走边渲染
 
 ## 230426
-1、继续阅读matlab代码
+1、继续阅读matlab代码\
+2、LEACH好像有节点冲突，但是RWP里好像没有这个情况 —— 错了错了是有这个情况的，就是在移动所以没看太出来\
+3、每次把随机出来的部分保存一份csv，这样有对比性\
+
+## 230427
+1、
