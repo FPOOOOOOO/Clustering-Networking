@@ -68,5 +68,5 @@ UCFIA（Unequal Clustering Algorithm for WSN based on Fuzzy Logic and Improved AC
 2、LEACH好像有节点冲突，但是RWP里好像没有这个情况 —— 错了错了是有这个情况的，就是在移动所以没看太出来\
 3、每次把随机出来的部分保存一份csv，这样有对比性\
 
-## 230427
+## 230504
 1、
