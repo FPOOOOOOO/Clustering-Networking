@@ -69,4 +69,9 @@ UCFIA（Unequal Clustering Algorithm for WSN based on Fuzzy Logic and Improved AC
 3、每次把随机出来的部分保存一份csv，这样有对比性\
 
 ## 230504
-1、
+1、进行一个数据的保存\
+2、R = unifrnd(A, B, m, n) 生成m * n 的数组\
+
+## 230505
+1、进行一个数据的保存\
+2、
