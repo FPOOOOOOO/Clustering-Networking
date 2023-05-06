@@ -70,8 +70,10 @@ UCFIA（Unequal Clustering Algorithm for WSN based on Fuzzy Logic and Improved AC
 
 ## 230504
 1、进行一个数据的保存\
-2、R = unifrnd(A, B, m, n) 生成m * n 的数组\
+2、R = unifrnd(A, B, m, n) 生成m * n 的数组, 范围 A- B的 均匀分布\
 
 ## 230505
 1、进行一个数据的保存\
+## 230506
+1、服了，现在还没保存下来数据\
 2、
