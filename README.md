@@ -76,4 +76,13 @@ UCFIA（Unequal Clustering Algorithm for WSN based on Fuzzy Logic and Improved AC
 1、进行一个数据的保存\
 ## 230506
 1、服了，现在还没保存下来数据\
+2、    
+    MATLAB中的插值函数为interp1，其调用格式为：  yi= interp1(x,y,xi,'method')           
+    其中x，y为插值点，yi为在被插值点xi处的插值结果；x,y为向量， 
+    'method'表示采用的插值方法，MATLAB提供的插值方法有几种： 
+        'nearest'是最邻近插值， 'linear'线性插值； 'spline'三次样条插值； 'pchip'立方插值．缺省时表示线性插值
+    注意：所有的插值方法都要求x是单调的，并且xi不能够超过x的范围。
+
+## 230508
+1、数据不是最重要的\
 2、
