@@ -89,5 +89,8 @@ UCFIA（Unequal Clustering Algorithm for WSN based on Fuzzy Logic and Improved AC
 ## 230511
 1、进行leach_mobile的调整
 
-## 230512
-1、进行leach_mbile的调整
+## 230522
+1、原来是一个括号没有加，导致每次都进不去。
+
+## 230523
+1、看看能不能把点加上
