@@ -94,4 +94,10 @@ UCFIA（Unequal Clustering Algorithm for WSN based on Fuzzy Logic and Improved AC
 
 ## 230523
 1、看看能不能把点加上，不太行，这个*不能加在中间，因为是set的，只有plot可以，相当于多画一个\
-2、
+
+## 231031
+看一下机器人集群的通信方法，由fastlab衍生出的
+1、reciprocal velocity obstacles (RVO) 反向速度障碍（碰到障碍物会反向）——应该是RWP已经包含了
+
+## 231101
+看一下机器人集群的通
